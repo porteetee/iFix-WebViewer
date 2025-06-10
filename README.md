@@ -108,9 +108,8 @@ Use `RegAsm` to register the component:
 "{dotnet40}\RegAsm.exe" "{Proficy iFIX Path}\DotNet Components\Webviewer\iFixWebViewer.dll" /codebase
 ```
 > [!NOTE]
-> Replace {dotnet40} with the actual .NET Framework path (e.g. C:\Windows\Microsoft.NET\Framework64\v4.0.30319).
-> 
-> Replace {Proficy iFIX Path} with the actual Proficy iFIX Path.
+> Replace `{dotnet40}` with the actual .NET Framework path (e.g. C:\Windows\Microsoft.NET\Framework64\v4.0.30319).</br>
+> Replace `{Proficy iFIX Path}` with the actual Proficy iFIX Path.
 ### Import .NET Component into iFIX
 - In iFIX Workspace, go to: Tools > Objects/Links > .NET Compone
 - Click Add Components, then browse to: `iFixWebViewer.dll` inside the `Webviewer` folder
