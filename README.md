@@ -1,3 +1,8 @@
+# WebViwer2 for iFIX SCADA
+A modern web viewer component for iFIX, built using Microsoft Edge (Chromium) WebView2.
+This component is designed to replace the legacy Internet Explorer-based viewer in iFIX, enabling support for modern web technologies including HTML5, CSS3, and JavaScript.
+
+With this upgrade, iFIX screens can now display and interact with modern web applications, dashboards, and embedded content reliably and securely.
 ## How to Create a COM-Visible UserControl Using WebView2 (.NET Framework)
 ### Create a new project 
 - Template: `Windows Froms Control Library (.Net framework)`.
