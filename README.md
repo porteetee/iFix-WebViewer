@@ -5,7 +5,7 @@
 ### Install WebView2 Package
 - Right-click the project > Manage NuGet Packages.
 - Search for and install the package: `Microsoft.Web.WebView2`.
-- 
+  
 ![Example Image](images/webview2.png)
 
 ### Design the UserControl
